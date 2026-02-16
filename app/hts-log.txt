@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Feb 2026 11:51:03 at https://supremeindia.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://supremeindia.com/ -O1 "C:\My Web Sites\app" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:11:17	Error: 	"Not Found" (404) at link https://supremeindia.com/modules/v2/chunk.common_DH6hE_eH.esm.js (from https://supremeindia.com/)
+12:11:17	Error: 	"Not Found" (404) at link https://supremeindia.com/modules/v2/client.shop-login-button_BBz4DLHp.en.esm.js (from https://supremeindia.com/)
+12:11:18	Error: 	"Not Found" (404) at link https://supremeindia.com/POST (from https://supremeindia.com/)
+12:11:18	Error: 	"Error when decompressing" (-1) at link https://supremeindia.com/cdn (from https://supremeindia.com/)
+12:33:01	Error: 	"Not Found" (404) at link https://supremeindia.com/Trident/ (from https://supremeindia.com/)
+14:41:16	Warning: 	Link https://supremeindia.com/products/hp-elitebook-840-g11-b85wqpt?variant=41957789302871 not scanned (follow robots meta tag)
+14:41:19	Warning: 	Link https://supremeindia.com/products/hp-elitebook-840-g11-b85wqpt not scanned (follow robots meta tag)
+14:43:32	Warning: 	Retry after error -4 (No data (connection closed)) at link supremeindia.com/cdn/shop/t/23/assets/component-accordion.css?v=67037267762844636361759206571 (from https://supremeindia.com/)
+14:47:51	Warning: 	Retry after error -4 (No data (connection closed)) at link supremeindia.com/cdn/shop/files/02-6b6999b9-dce0-489b-b6cd-6526d0946ca1-_2.png?v=1767171765&width=370 (from https://supremeindia.com/)
+14:47:51	Warning: 	Retry after error -4 (No data (connection closed)) at link supremeindia.com/cdn/shop/files/01-d2537f44-98bf-44fa-b937-61eaec8a47df-_1.png?v=1767171762&width=370%20370w (from https://supremeindia.com/)
+14:47:51	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://supremeindia.com/products/hp-802-ch561zz-black-ink (from https://supremeindia.com/)
+14:49:58	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.785849051019!2d80.270917!3d13.069339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52661b626e700b%3A0x64c41a5ab6a6076f!2sSupreme%20Computer%20India%20Pvt%20Ltd!5e1!3m2!1sen!2sin!4v1763622997684!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:03	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.766852830971!2d80.2584754!3d13.070784300000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267f454e9c32b%3A0x3cdcbd6ae973aea1!2sSupreme%20Computers%20-%20Laptop%20Store!5e1!3m2!1sen!2sin!4v1763107377204!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:05	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.7600190495!2d80.26087799999999!3d13.071304199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267c8ea2ca001%3A0xa35c66d02e069ac7!2sSupreme%20Computers%20India%20Pvt%20Ltd%20-%20Warehouse!5e1!3m2!1sen!2sin!4v1763107787113!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:07	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.2154039676543!2d78.1191209!3d9.924147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00cf514470dd1f%3A0xe6c4980925fd12f8!2sSupreme%20Computers%20India%20Pvt%20Ltd!5e1!3m2!1sen!2sin!4v1763107985660!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:08	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.6537807722175!2d76.9638949!3d11.018696700000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba858f80c942d55%3A0x838d8542fd35fd80!2sSupreme%20Computers%20India%20Pvt%20Ltd!5e1!3m2!1sen!2sin!4v1763108115888!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:09	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3270.7618020254167!2d78.6768682!3d10.827287499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baaf588ff37f93d%3A0xe0276a3f9533d148!2sSupreme%20Computers%20India%20Pvt%20Ltd!5e1!3m2!1sen!2sin!4v1763108192439!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:11	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3257.974443447053!2d79.8134537!3d11.941907599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5361d252348911%3A0x9a7bf1244ca572ab!2sSupreme%20Computers%20India%20Pvt%20Ltd!5e1!3m2!1sen!2sin!4v1763108355484!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:50:13	Error: 	"Not Found" (404) at link https://supremeindia.com/"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3279.8040379136314!2d76.2928846!3d9.9651313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0873b93a946541%3A0x5494030c980dfcd6!2sSupreme%20Computers%20India%20Pvt%20Ltd%20-%20Kochi%20Branch!5e1!3m2!1sen!2sin!4v1763108578948!5m2!1sen!2sin%22 (from https://supremeindia.com/)
+14:51:31	Error: 	"Not Found" (404) at link https://supremeindia.com/collections/modules/v2/chunk.common_DH6hE_eH.esm.js (from https://supremeindia.com/collections/all)
+14:51:32	Error: 	"Not Found" (404) at link https://supremeindia.com/collections/modules/v2/client.shop-login-button_BBz4DLHp.en.esm.js (from https://supremeindia.com/collections/all)
+14:51:33	Error: 	"Not Found" (404) at link https://supremeindia.com/collections/POST (from https://supremeindia.com/collections/all)
+14:51:34	Error: 	"Not Found" (404) at link https://supremeindia.com/collections/Trident/ (from https://supremeindia.com/collections/all)
+14:57:23	Error: 	Exit requested by shell or user
+14:57:23	Error: 	"" (-1) at link https://supremeindia.com/products/asus-prime-h610m-e-d4-motherboard?variant=41904346988631 (from https://supremeindia.com/collections/all)
+14:57:23	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 hours 6 minutes 20 seconds : 6868 links scanned, 4931 files written (1443988442 bytes overall) [513693455 bytes received at 45947 bytes/sec], 1149168900 bytes transferred using HTTP compression in 2382 files, ratio 15%, 3.7 requests per connection
+(20 errors, 6 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

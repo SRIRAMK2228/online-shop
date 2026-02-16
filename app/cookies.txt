@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+supremeindia.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZxVqPrGAAEAW_5EzKFVHEKm0-hiEOoEV2KoDaHLgGADLhHjdtGI_HuPlQVYY0ncW5ptIqc:
+supremeindia.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZxVqPqiAAEAY3Oxj3_I87XRjHcID9Ow6asO2ka6YHsJEvpjNSrkZHodW0GsWGDeBxisnbBaGpkNNBLENkNmPwBJA_y4EVmYzBFSPXgRQfMw7qG-xwaQdDmWH8ccaoSaCs9qetgJrXCVu9ZJ5p0mKuvgOKSCAm0xHeDam01yPr4p_cJOdIHrdzOxcU82LCQgqGsrJTjs4lSQPKApPeg3Cepim8jH0dLOcqu236Tm70fxgGuu1aA-78o9c_bZ3Lb-pMrJoXOhldd5a8TTY8e1aWa4BGiPJKyQ0n72P9bD6UVgtTQnyfVlR2M5rp_H0K4IeG7q4gWFDJbhQ0ziyUVWZe1ye6nSfP3_uelf8BL5S0ewT6X_:
+supremeindia.com	TRUE	/	FALSE	1999999999	Priority	High
+supremeindia.com	TRUE	/	FALSE	1999999999	localization	IN
+supremeindia.com	TRUE	/	FALSE	1999999999	_shopify_y	36a90dce-f52c-4618-b019-20b7200419fd
+supremeindia.com	TRUE	/	FALSE	1999999999	_shopify_s	9a009377-5a3c-4b8e-afa2-4551095c5cf6
+supremeindia.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
